@@ -2,7 +2,11 @@
 
 A simple GitScrum plugin for Wordpress. You will be able to manage your projects without having to leave Wordpress.
 
+### [GitScrum for Wordpress - Download](https://site.gitscrum.com/download/gitscrum.zip)
+
+<hr>
 * This is an MVP version of the plugin.
+
 ** A minimum viable product, or MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle.
 
 ### What is GitScrum?
