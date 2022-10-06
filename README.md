@@ -1,4 +1,4 @@
-# GitScrum for Wordpress
+# GitScrum Plugin for Wordpress
 
 A simple GitScrum plugin for Wordpress. You will be able to manage your projects without having to leave Wordpress.
 
