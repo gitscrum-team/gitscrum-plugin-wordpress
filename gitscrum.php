@@ -10,10 +10,10 @@
  * Plugin URI:        https://github.com/gitscrum-team/gitscrum-wordpress-plugin
  * Description:       Organize work to increase performance and everything you need to manage projects remotely
  * Version:           1.0.0
- * Author:            GitScrum
- * Author URI:        https://github.com/gitscrum-team/gitscrum-wordpress-plugin
  * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * Author:            GitScrum
+ * Author URI:        https://site.gitscrum.com
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       gitscrum
  * Domain Path:       /languages
  */
